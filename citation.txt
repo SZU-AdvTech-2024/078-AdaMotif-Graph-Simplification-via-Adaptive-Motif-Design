@@ -1,8 +1,6 @@
 @article{REPO078,
     author = "Zhou, Hong and Lai, Peifeng and Sun, Zhida and Chen, Xiangyuan and Chen, Yang and Wu, Huisi and Wang, Yong",
-    doi = "10.1109/TVCG.2024.3456321",
     journal = "IEEE Transactions on Visualization and Computer Graphics",
-    keywords = "Data visualization;Visualization;Layout;Vectors;Social networking (online);Encoding;Sampling methods;Graph visualization;node-link diagrams;graph simplification",
     number = "1",
     pages = "688-698",
     title = "{AdaMotif: Graph Simplification via Adaptive Motif Design}",
